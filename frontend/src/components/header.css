@@ -1,0 +1,15 @@
+.wrapper {
+    display: flex;
+}
+
+.leftBg {
+    background-color: #3AAFA9;
+    width: 70%;
+    height: 650px;
+}
+
+.rightBg {
+    background-color: #DEF2F1;
+    width: 30%;
+    height: 650px;
+}
