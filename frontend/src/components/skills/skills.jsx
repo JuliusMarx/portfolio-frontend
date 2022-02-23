@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import './skills.css';
 
 class Skills extends Component {
     constructor(props) {
@@ -7,8 +8,10 @@ class Skills extends Component {
     state = {  }
     render() { 
         return ( 
-            <h1>Skills works!</h1>
-         );
+            <div className='bg_skills'>
+                Skills works!
+            </div>
+        );
     }
 }
  
